@@ -1,0 +1,38 @@
+{
+    "books": [
+        {
+            "id": "1",
+            "name": "Learning React: Functional Web Development with React and Redux",
+            "author": "Alex Banks and Eve Porcello",
+            "published": "2017"
+        },
+        {
+            "id": "2",
+            "name": "The Road to Learn React: Your Journey to Master Plain Yet Pragmatic React.Js",
+            "author": "Robin Wieruch",
+            "published": "November 15, 2017"
+        },
+        {
+            "id": "3",
+            "name": "Learning React: Modern Patterns for Developing React Apps",
+            "author": "Alex Banks and Eve Porcello",
+            "published": "June 12, 2020"
+        },
+        {
+            "id": "4",
+            "name": "React: Up & Running: Building Web Applications",
+            "author": "Stoyan Stefanov",
+            "published": "July 14, 2016"
+        },
+        {
+            "id": "5",
+            "name": "Learn React Hooks: Build and Refactor Modern React.js Applications Using Hooks",
+            "author": "Daniel Bugl",
+            "published": "October 18, 2019"
+        }
+    ],
+
+    "users": [
+        
+    ]
+}
